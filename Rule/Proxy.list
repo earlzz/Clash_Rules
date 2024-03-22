@@ -13,3 +13,6 @@ DOMAIN,photos.onedrive.com
 
 # 微软TTS
 DOMAIN-SUFFIX,speech.microsoft.com
+
+#m-team
+DOMAIN-SUFFIX,m-team.cc
