@@ -23,3 +23,6 @@ DOMAIN-SUFFIX , news.iadsdk.apple.com
                                                      
 DOMAIN-SUFFIX , newsletter-edge.apple.com          
 DOMAIN-SUFFIX , news-todayconfig-edge.apple.com 
+DOMAIN-SUFFIX ,fpinit.itunes.apple.com
+DOMAIN-SUFFIX ,gateway.icloud.com
+
