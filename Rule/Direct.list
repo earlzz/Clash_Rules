@@ -8,3 +8,5 @@ DOMAIN-SUFFIX,pthome.net
 DOMAIN-SUFFIX,m-team.io
 DOMAIN-SUFFIX,m-team.cc
 DOMAIN-SUFFIX,code.visualstudio.com
+# 邮箱
+DOMAIN-SUFFIX,imap.gmail.com
