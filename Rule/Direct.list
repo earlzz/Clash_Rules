@@ -10,3 +10,8 @@ DOMAIN-SUFFIX,m-team.cc
 DOMAIN-SUFFIX,code.visualstudio.com
 # 邮箱
 DOMAIN-SUFFIX,imap.gmail.com
+
+# 阿里
+DOMAIN-SUFFIX,dingtalkapps.com
+DOMAIN-SUFFIX,yuque.antfin.com
+DOMAIN-SUFFIX,yuque.com
