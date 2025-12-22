@@ -1,5 +1,7 @@
 # 内容：AppleTV
 # 数量：3条
-DOMAIN-SUFFIX,itunes.apple.com
-DOMAIN-SUFFIX,fitness.apple.com
-DOMAIN-SUFFIX,tv.apple.com
+# DOMAIN-SUFFIX,itunes.apple.com
+# DOMAIN-SUFFIX,fitness.apple.com
+# DOMAIN-SUFFIX,tv.apple.com
+DOMAIN,vod-ap1-aoc.tv.apple.com
+DOMAIN,hls-svod.itunes.apple.com:443
