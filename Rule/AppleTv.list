@@ -4,4 +4,4 @@
 # DOMAIN-SUFFIX,fitness.apple.com
 # DOMAIN-SUFFIX,tv.apple.com
 DOMAIN,vod-ap1-aoc.tv.apple.com
-DOMAIN,hls-svod.itunes.apple.com:443
+DOMAIN,hls-svod.itunes.apple.com
