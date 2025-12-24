@@ -3,5 +3,8 @@
 # DOMAIN-SUFFIX,itunes.apple.com
 # DOMAIN-SUFFIX,fitness.apple.com
 # DOMAIN-SUFFIX,tv.apple.com
-DOMAIN,vod-ap1-aoc.tv.apple.com
-DOMAIN,hls-svod.itunes.apple.com
+DOMAIN-SUFFIX,vod-ap-amt.tv.apple.com
+DOMAIN-SUFFIX,vod-ap-aoc.tv.apple.com
+DOMAIN-SUFFIX,vod-ak-amt.tv.apple.com
+DOMAIN-SUFFIX,vod-ak-aoc.tv.apple.com
+DOMAIN-SUFFIX,hls-svod.itunes.apple.com
