@@ -1,0 +1,38 @@
+# Apple ID / iCloud 鉴权域名 —— 强制 DIRECT
+# 放在所有 ruleset 之前，绝对优先级直连
+# 解决 Apple ID 登录失败 / iCloud 验证失败 / 设备激活鉴权走代理问题
+
+# --- 账号鉴权核心（登录失败首要相关）---
+DOMAIN,gsa.apple.com
+DOMAIN,gs.apple.com
+DOMAIN,gsas.apple.com
+DOMAIN,setup.icloud.com
+DOMAIN,gateway.icloud.com
+DOMAIN,appleid.apple.com
+DOMAIN,idmsa.apple.com
+DOMAIN,appleid.cdn-apple.com
+DOMAIN,p01-quota.icloud.com
+DOMAIN,p01-keyvalueservice.icloud.com
+
+# --- 推送 / 设备激活 ---
+DOMAIN-SUFFIX,push.apple.com
+DOMAIN-SUFFIX,push-apple.com.akadns.net
+DOMAIN,albert.apple.com
+DOMAIN,captive.apple.com
+
+# --- iCloud 全域 ---
+DOMAIN-SUFFIX,icloud.com
+DOMAIN-SUFFIX,icloud-content.com
+DOMAIN-SUFFIX,me.com
+
+# --- Apple 主域 / CDN ---
+DOMAIN-SUFFIX,apple.com
+DOMAIN-SUFFIX,cdn-apple.com
+DOMAIN-SUFFIX,mzstatic.com
+DOMAIN-SUFFIX,aaplimg.com
+DOMAIN-SUFFIX,apple-cloudkit.com
+
+# --- App Store / 验证 ---
+DOMAIN,xp.apple.com
+DOMAIN,init.itunes.apple.com
+DOMAIN,doh.dns.apple.com
